@@ -2,13 +2,21 @@
   text-align: center;
 }
 
-.App-logo {
+.HelloWorld-text {
+  display:inline-block;
+}
+
+.HelloWorld-firstWord {
+  margin-right: 10px;
+}
+
+.Logo-logo {
   height: 40vmin;
   pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
+  .Logo-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
